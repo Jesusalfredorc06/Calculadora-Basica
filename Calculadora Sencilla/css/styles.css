@@ -1,0 +1,28 @@
+body{
+    background-image: url(/css/img/Calcular-plusvalia-municipal-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.contenedor {
+    max-width: 400px;
+    margin: 50px 500px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    font-size: 2rem;
+    margin: 20px 0 0 0;
+    color: rgb(0, 0, 0);
+    padding-bottom: 2rem;
+}
+
+select {
+    width: 50%;
+    padding: 1px;
+    font-size: 15px;
+}
